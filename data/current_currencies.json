@@ -1,0 +1,1986 @@
+{
+  "AD": {
+    "country_name": "Andorra",
+    "official_country_name": "Principality of Andorra",
+    "iso_alpha3_code": "AND",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "AE": {
+    "country_name": "United Arab Emirates",
+    "official_country_name": "United Arab Emirates",
+    "iso_alpha3_code": "ARE",
+    "currency_code": "AED",
+    "currency_name": "UAE Dirham",
+    "active_since": "1973-05-19"
+  },
+  "AF": {
+    "country_name": "Afghanistan",
+    "official_country_name": "Islamic Republic of Afghanistan",
+    "iso_alpha3_code": "AFG",
+    "currency_code": "AFN",
+    "currency_name": "Afghani",
+    "active_since": "2002-10-07"
+  },
+  "AG": {
+    "country_name": "Antigua and Barbuda",
+    "official_country_name": "Antigua and Barbuda",
+    "iso_alpha3_code": "ATG",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "AI": {
+    "country_name": "Anguilla",
+    "official_country_name": "Anguilla",
+    "iso_alpha3_code": "AIA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "AL": {
+    "country_name": "Albania",
+    "official_country_name": "Republic of Albania",
+    "iso_alpha3_code": "ALB",
+    "currency_code": "ALL",
+    "currency_name": "Lek",
+    "active_since": "1965-08-16"
+  },
+  "AM": {
+    "country_name": "Armenia",
+    "official_country_name": "Republic of Armenia",
+    "iso_alpha3_code": "ARM",
+    "currency_code": "AMD",
+    "currency_name": "Armenian Dram",
+    "active_since": "1993-11-22"
+  },
+  "AO": {
+    "country_name": "Angola",
+    "official_country_name": "Republic of Angola",
+    "iso_alpha3_code": "AGO",
+    "currency_code": "AOA",
+    "currency_name": "Kwanza",
+    "active_since": "1999-12-13"
+  },
+  "AR": {
+    "country_name": "Argentina",
+    "official_country_name": "Argentine Republic",
+    "iso_alpha3_code": "ARG",
+    "currency_code": "ARS",
+    "currency_name": "Argentine Peso",
+    "active_since": "1992-01-01"
+  },
+  "AS": {
+    "country_name": "American Samoa",
+    "official_country_name": "American Samoa",
+    "iso_alpha3_code": "ASM",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1904-07-16"
+  },
+  "AT": {
+    "country_name": "Austria",
+    "official_country_name": "Republic of Austria",
+    "iso_alpha3_code": "AUT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "AU": {
+    "country_name": "Australia",
+    "official_country_name": "Australia",
+    "iso_alpha3_code": "AUS",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "AW": {
+    "country_name": "Aruba",
+    "official_country_name": "Aruba",
+    "iso_alpha3_code": "ABW",
+    "currency_code": "AWG",
+    "currency_name": "Aruban Florin",
+    "active_since": "1986-01-01"
+  },
+  "AX": {
+    "country_name": "Åland Islands",
+    "official_country_name": "Åland Islands",
+    "iso_alpha3_code": "ALA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "AZ": {
+    "country_name": "Azerbaijan",
+    "official_country_name": "Republic of Azerbaijan",
+    "iso_alpha3_code": "AZE",
+    "currency_code": "AZN",
+    "currency_name": "Azerbaijan Manat",
+    "active_since": "2006-01-01"
+  },
+  "BA": {
+    "country_name": "Bosnia and Herzegovina",
+    "official_country_name": "Republic of Bosnia and Herzegovina",
+    "iso_alpha3_code": "BIH",
+    "currency_code": "BAM",
+    "currency_name": "Convertible Mark",
+    "active_since": "1995-01-01"
+  },
+  "BB": {
+    "country_name": "Barbados",
+    "official_country_name": "Barbados",
+    "iso_alpha3_code": "BRB",
+    "currency_code": "BBD",
+    "currency_name": "Barbados Dollar",
+    "active_since": "1973-12-03"
+  },
+  "BD": {
+    "country_name": "Bangladesh",
+    "official_country_name": "People's Republic of Bangladesh",
+    "iso_alpha3_code": "BGD",
+    "currency_code": "BDT",
+    "currency_name": "Taka",
+    "active_since": "1972-01-01"
+  },
+  "BE": {
+    "country_name": "Belgium",
+    "official_country_name": "Kingdom of Belgium",
+    "iso_alpha3_code": "BEL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "BF": {
+    "country_name": "Burkina Faso",
+    "official_country_name": "Burkina Faso",
+    "iso_alpha3_code": "BFA",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1984-08-04"
+  },
+  "BG": {
+    "country_name": "Bulgaria",
+    "official_country_name": "Republic of Bulgaria",
+    "iso_alpha3_code": "BGR",
+    "currency_code": "BGN",
+    "currency_name": "Bulgarian Lev",
+    "active_since": "1999-07-05"
+  },
+  "BH": {
+    "country_name": "Bahrain",
+    "official_country_name": "Kingdom of Bahrain",
+    "iso_alpha3_code": "BHR",
+    "currency_code": "BHD",
+    "currency_name": "Bahraini Dinar",
+    "active_since": "1965-10-16"
+  },
+  "BI": {
+    "country_name": "Burundi",
+    "official_country_name": "Republic of Burundi",
+    "iso_alpha3_code": "BDI",
+    "currency_code": "BIF",
+    "currency_name": "Burundi Franc",
+    "active_since": "1964-05-19"
+  },
+  "BJ": {
+    "country_name": "Benin",
+    "official_country_name": "Republic of Benin",
+    "iso_alpha3_code": "BEN",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1975-11-30"
+  },
+  "BL": {
+    "country_name": "Saint Barthélemy",
+    "official_country_name": "Saint Barthélemy",
+    "iso_alpha3_code": "BLM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "BM": {
+    "country_name": "Bermuda",
+    "official_country_name": "Bermuda",
+    "iso_alpha3_code": "BMU",
+    "currency_code": "BMD",
+    "currency_name": "Bermudian Dollar",
+    "active_since": "1970-02-06"
+  },
+  "BN": {
+    "country_name": "Brunei Darussalam",
+    "official_country_name": "Brunei Darussalam",
+    "iso_alpha3_code": "BRN",
+    "currency_code": "BND",
+    "currency_name": "Brunei Dollar",
+    "active_since": "1967-06-12"
+  },
+  "BO": {
+    "country_name": "Bolivia, Plurinational State of",
+    "official_country_name": "Plurinational State of Bolivia",
+    "iso_alpha3_code": "BOL",
+    "currency_code": "BOB",
+    "currency_name": "Boliviano",
+    "active_since": "1987-01-01"
+  },
+  "BQ": {
+    "country_name": "Bonaire, Sint Eustatius and Saba",
+    "official_country_name": "Bonaire, Sint Eustatius and Saba",
+    "iso_alpha3_code": "BES",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "2011-01-01"
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "official_country_name": "Federative Republic of Brazil",
+    "iso_alpha3_code": "BRA",
+    "currency_code": "BRL",
+    "currency_name": "Brazilian Real",
+    "active_since": "1994-07-01"
+  },
+  "BS": {
+    "country_name": "Bahamas",
+    "official_country_name": "Commonwealth of the Bahamas",
+    "iso_alpha3_code": "BHS",
+    "currency_code": "BSD",
+    "currency_name": "Bahamian Dollar",
+    "active_since": "1966-05-25"
+  },
+  "BT": {
+    "country_name": "Bhutan",
+    "official_country_name": "Kingdom of Bhutan",
+    "iso_alpha3_code": "BTN",
+    "currency_code": "BTN",
+    "currency_name": "Ngultrum",
+    "active_since": "1974-04-16"
+  },
+  "BV": {
+    "country_name": "Bouvet Island",
+    "official_country_name": "Bouvet Island",
+    "iso_alpha3_code": "BVT",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "active_since": "1905-06-07"
+  },
+  "BW": {
+    "country_name": "Botswana",
+    "official_country_name": "Republic of Botswana",
+    "iso_alpha3_code": "BWA",
+    "currency_code": "BWP",
+    "currency_name": "Pula",
+    "active_since": "1976-08-23"
+  },
+  "BY": {
+    "country_name": "Belarus",
+    "official_country_name": "Republic of Belarus",
+    "iso_alpha3_code": "BLR",
+    "currency_code": "BYN",
+    "currency_name": "Belarusian Ruble",
+    "active_since": "2016-07-01"
+  },
+  "BZ": {
+    "country_name": "Belize",
+    "official_country_name": "Belize",
+    "iso_alpha3_code": "BLZ",
+    "currency_code": "BZD",
+    "currency_name": "Belize Dollar",
+    "active_since": "1974-01-01"
+  },
+  "CA": {
+    "country_name": "Canada",
+    "official_country_name": "Canada",
+    "iso_alpha3_code": "CAN",
+    "currency_code": "CAD",
+    "currency_name": "Canadian Dollar",
+    "active_since": "1858-01-01"
+  },
+  "CC": {
+    "country_name": "Cocos (Keeling) Islands",
+    "official_country_name": "Cocos (Keeling) Islands",
+    "iso_alpha3_code": "CCK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "CD": {
+    "country_name": "Congo, The Democratic Republic of the",
+    "official_country_name": "Congo, The Democratic Republic of the",
+    "iso_alpha3_code": "COD",
+    "currency_code": "CDF",
+    "currency_name": "Congolese Franc",
+    "active_since": "1998-07-01"
+  },
+  "CF": {
+    "country_name": "Central African Republic",
+    "official_country_name": "Central African Republic",
+    "iso_alpha3_code": "CAF",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1993-01-01"
+  },
+  "CG": {
+    "country_name": "Congo",
+    "official_country_name": "Republic of the Congo",
+    "iso_alpha3_code": "COG",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1993-01-01"
+  },
+  "CH": {
+    "country_name": "Switzerland",
+    "official_country_name": "Swiss Confederation",
+    "iso_alpha3_code": "CHE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "active_since": "1799-03-17"
+  },
+  "CI": {
+    "country_name": "Côte d'Ivoire",
+    "official_country_name": "Republic of Côte d'Ivoire",
+    "iso_alpha3_code": "CIV",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1958-12-04"
+  },
+  "CK": {
+    "country_name": "Cook Islands",
+    "official_country_name": "Cook Islands",
+    "iso_alpha3_code": "COK",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "active_since": "1967-07-10"
+  },
+  "CL": {
+    "country_name": "Chile",
+    "official_country_name": "Republic of Chile",
+    "iso_alpha3_code": "CHL",
+    "currency_code": "CLP",
+    "currency_name": "Chilean Peso",
+    "active_since": "1975-09-29"
+  },
+  "CM": {
+    "country_name": "Cameroon",
+    "official_country_name": "Republic of Cameroon",
+    "iso_alpha3_code": "CMR",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1973-04-01"
+  },
+  "CN": {
+    "country_name": "China",
+    "official_country_name": "People's Republic of China",
+    "iso_alpha3_code": "CHN",
+    "currency_code": "CNY",
+    "currency_name": "Yuan Renminbi",
+    "active_since": "1953-03-01"
+  },
+  "CO": {
+    "country_name": "Colombia",
+    "official_country_name": "Republic of Colombia",
+    "iso_alpha3_code": "COL",
+    "currency_code": "COP",
+    "currency_name": "Colombian Peso",
+    "active_since": "1905-01-01"
+  },
+  "CR": {
+    "country_name": "Costa Rica",
+    "official_country_name": "Republic of Costa Rica",
+    "iso_alpha3_code": "CRI",
+    "currency_code": "CRC",
+    "currency_name": "Costa Rican Colon",
+    "active_since": "1896-10-26"
+  },
+  "CU": {
+    "country_name": "Cuba",
+    "official_country_name": "Republic of Cuba",
+    "iso_alpha3_code": "CUB",
+    "currency_code": "CUP",
+    "currency_name": "Cuban Peso",
+    "active_since": "1859-01-01"
+  },
+  "CV": {
+    "country_name": "Cabo Verde",
+    "official_country_name": "Republic of Cabo Verde",
+    "iso_alpha3_code": "CPV",
+    "currency_code": "CVE",
+    "currency_name": "Cabo Verde Escudo",
+    "active_since": "1914-01-01"
+  },
+  "CW": {
+    "country_name": "Curaçao",
+    "official_country_name": "Curaçao",
+    "iso_alpha3_code": "CUW",
+    "currency_code": "XCG",
+    "currency_name": "XCG",
+    "active_since": "2025-03-31"
+  },
+  "CX": {
+    "country_name": "Christmas Island",
+    "official_country_name": "Christmas Island",
+    "iso_alpha3_code": "CXR",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "CY": {
+    "country_name": "Cyprus",
+    "official_country_name": "Republic of Cyprus",
+    "iso_alpha3_code": "CYP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2008-01-01"
+  },
+  "CZ": {
+    "country_name": "Czechia",
+    "official_country_name": "Czech Republic",
+    "iso_alpha3_code": "CZE",
+    "currency_code": "CZK",
+    "currency_name": "Czech Koruna",
+    "active_since": "1993-01-01"
+  },
+  "DE": {
+    "country_name": "Germany",
+    "official_country_name": "Federal Republic of Germany",
+    "iso_alpha3_code": "DEU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "DJ": {
+    "country_name": "Djibouti",
+    "official_country_name": "Republic of Djibouti",
+    "iso_alpha3_code": "DJI",
+    "currency_code": "DJF",
+    "currency_name": "Djibouti Franc",
+    "active_since": "1977-06-27"
+  },
+  "DK": {
+    "country_name": "Denmark",
+    "official_country_name": "Kingdom of Denmark",
+    "iso_alpha3_code": "DNK",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "active_since": "1873-05-27"
+  },
+  "DM": {
+    "country_name": "Dominica",
+    "official_country_name": "Commonwealth of Dominica",
+    "iso_alpha3_code": "DMA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "DO": {
+    "country_name": "Dominican Republic",
+    "official_country_name": "Dominican Republic",
+    "iso_alpha3_code": "DOM",
+    "currency_code": "DOP",
+    "currency_name": "Dominican Peso",
+    "active_since": "1947-10-01"
+  },
+  "DZ": {
+    "country_name": "Algeria",
+    "official_country_name": "People's Democratic Republic of Algeria",
+    "iso_alpha3_code": "DZA",
+    "currency_code": "DZD",
+    "currency_name": "Algerian Dinar",
+    "active_since": "1964-04-01"
+  },
+  "EC": {
+    "country_name": "Ecuador",
+    "official_country_name": "Republic of Ecuador",
+    "iso_alpha3_code": "ECU",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "2000-10-02"
+  },
+  "EE": {
+    "country_name": "Estonia",
+    "official_country_name": "Republic of Estonia",
+    "iso_alpha3_code": "EST",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2011-01-01"
+  },
+  "EG": {
+    "country_name": "Egypt",
+    "official_country_name": "Arab Republic of Egypt",
+    "iso_alpha3_code": "EGY",
+    "currency_code": "EGP",
+    "currency_name": "Egyptian Pound",
+    "active_since": "1885-11-14"
+  },
+  "EH": {
+    "country_name": "Western Sahara",
+    "official_country_name": "Western Sahara",
+    "iso_alpha3_code": "ESH",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan Dirham",
+    "active_since": "1976-02-26"
+  },
+  "ER": {
+    "country_name": "Eritrea",
+    "official_country_name": "the State of Eritrea",
+    "iso_alpha3_code": "ERI",
+    "currency_code": "ERN",
+    "currency_name": "Nakfa",
+    "active_since": "1997-11-08"
+  },
+  "ES": {
+    "country_name": "Spain",
+    "official_country_name": "Kingdom of Spain",
+    "iso_alpha3_code": "ESP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "ET": {
+    "country_name": "Ethiopia",
+    "official_country_name": "Federal Democratic Republic of Ethiopia",
+    "iso_alpha3_code": "ETH",
+    "currency_code": "ETB",
+    "currency_name": "Ethiopian Birr",
+    "active_since": "1976-09-15"
+  },
+  "FI": {
+    "country_name": "Finland",
+    "official_country_name": "Republic of Finland",
+    "iso_alpha3_code": "FIN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "FJ": {
+    "country_name": "Fiji",
+    "official_country_name": "Republic of Fiji",
+    "iso_alpha3_code": "FJI",
+    "currency_code": "FJD",
+    "currency_name": "Fiji Dollar",
+    "active_since": "1969-01-13"
+  },
+  "FK": {
+    "country_name": "Falkland Islands (Malvinas)",
+    "official_country_name": "Falkland Islands (Malvinas)",
+    "iso_alpha3_code": "FLK",
+    "currency_code": "FKP",
+    "currency_name": "Falkland Islands Pound",
+    "active_since": "1901-01-01"
+  },
+  "FM": {
+    "country_name": "Micronesia, Federated States of",
+    "official_country_name": "Federated States of Micronesia",
+    "iso_alpha3_code": "FSM",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-01-01"
+  },
+  "FO": {
+    "country_name": "Faroe Islands",
+    "official_country_name": "Faroe Islands",
+    "iso_alpha3_code": "FRO",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "active_since": "1948-01-01"
+  },
+  "FR": {
+    "country_name": "France",
+    "official_country_name": "French Republic",
+    "iso_alpha3_code": "FRA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "GA": {
+    "country_name": "Gabon",
+    "official_country_name": "Gabonese Republic",
+    "iso_alpha3_code": "GAB",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1993-01-01"
+  },
+  "GB": {
+    "country_name": "United Kingdom",
+    "official_country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "iso_alpha3_code": "GBR",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "active_since": "1694-07-27"
+  },
+  "GD": {
+    "country_name": "Grenada",
+    "official_country_name": "Grenada",
+    "iso_alpha3_code": "GRD",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1967-02-27"
+  },
+  "GE": {
+    "country_name": "Georgia",
+    "official_country_name": "Georgia",
+    "iso_alpha3_code": "GEO",
+    "currency_code": "GEL",
+    "currency_name": "Lari",
+    "active_since": "1995-09-23"
+  },
+  "GF": {
+    "country_name": "French Guiana",
+    "official_country_name": "French Guiana",
+    "iso_alpha3_code": "GUF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "GG": {
+    "country_name": "Guernsey",
+    "official_country_name": "Guernsey",
+    "iso_alpha3_code": "GGY",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "active_since": "1830-01-01"
+  },
+  "GH": {
+    "country_name": "Ghana",
+    "official_country_name": "Republic of Ghana",
+    "iso_alpha3_code": "GHA",
+    "currency_code": "GHS",
+    "currency_name": "Ghana Cedi",
+    "active_since": "2007-07-03"
+  },
+  "GI": {
+    "country_name": "Gibraltar",
+    "official_country_name": "Gibraltar",
+    "iso_alpha3_code": "GIB",
+    "currency_code": "GIP",
+    "currency_name": "Gibraltar Pound",
+    "active_since": "1713-01-01"
+  },
+  "GL": {
+    "country_name": "Greenland",
+    "official_country_name": "Greenland",
+    "iso_alpha3_code": "GRL",
+    "currency_code": "DKK",
+    "currency_name": "Danish Krone",
+    "active_since": "1873-05-27"
+  },
+  "GM": {
+    "country_name": "Gambia",
+    "official_country_name": "Republic of the Gambia",
+    "iso_alpha3_code": "GMB",
+    "currency_code": "GMD",
+    "currency_name": "Dalasi",
+    "active_since": "1971-07-01"
+  },
+  "GN": {
+    "country_name": "Guinea",
+    "official_country_name": "Republic of Guinea",
+    "iso_alpha3_code": "GIN",
+    "currency_code": "GNF",
+    "currency_name": "Guinean Franc",
+    "active_since": "1986-01-06"
+  },
+  "GP": {
+    "country_name": "Guadeloupe",
+    "official_country_name": "Guadeloupe",
+    "iso_alpha3_code": "GLP",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "GQ": {
+    "country_name": "Equatorial Guinea",
+    "official_country_name": "Republic of Equatorial Guinea",
+    "iso_alpha3_code": "GNQ",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1993-01-01"
+  },
+  "GR": {
+    "country_name": "Greece",
+    "official_country_name": "Hellenic Republic",
+    "iso_alpha3_code": "GRC",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2001-01-01"
+  },
+  "GS": {
+    "country_name": "South Georgia and the South Sandwich Islands",
+    "official_country_name": "South Georgia and the South Sandwich Islands",
+    "iso_alpha3_code": "SGS",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "active_since": "1908-01-01"
+  },
+  "GT": {
+    "country_name": "Guatemala",
+    "official_country_name": "Republic of Guatemala",
+    "iso_alpha3_code": "GTM",
+    "currency_code": "GTQ",
+    "currency_name": "Quetzal",
+    "active_since": "1925-05-27"
+  },
+  "GU": {
+    "country_name": "Guam",
+    "official_country_name": "Guam",
+    "iso_alpha3_code": "GUM",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-08-21"
+  },
+  "GW": {
+    "country_name": "Guinea-Bissau",
+    "official_country_name": "Republic of Guinea-Bissau",
+    "iso_alpha3_code": "GNB",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1997-03-31"
+  },
+  "GY": {
+    "country_name": "Guyana",
+    "official_country_name": "Republic of Guyana",
+    "iso_alpha3_code": "GUY",
+    "currency_code": "GYD",
+    "currency_name": "Guyana Dollar",
+    "active_since": "1966-05-26"
+  },
+  "HK": {
+    "country_name": "Hong Kong",
+    "official_country_name": "Hong Kong Special Administrative Region of China",
+    "iso_alpha3_code": "HKG",
+    "currency_code": "HKD",
+    "currency_name": "Hong Kong Dollar",
+    "active_since": "1895-02-02"
+  },
+  "HM": {
+    "country_name": "Heard Island and McDonald Islands",
+    "official_country_name": "Heard Island and McDonald Islands",
+    "iso_alpha3_code": "HMD",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1967-02-16"
+  },
+  "HN": {
+    "country_name": "Honduras",
+    "official_country_name": "Republic of Honduras",
+    "iso_alpha3_code": "HND",
+    "currency_code": "HNL",
+    "currency_name": "Lempira",
+    "active_since": "1926-04-03"
+  },
+  "HR": {
+    "country_name": "Croatia",
+    "official_country_name": "Republic of Croatia",
+    "iso_alpha3_code": "HRV",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2023-01-01"
+  },
+  "HT": {
+    "country_name": "Haiti",
+    "official_country_name": "Republic of Haiti",
+    "iso_alpha3_code": "HTI",
+    "currency_code": "HTG",
+    "currency_name": "Gourde",
+    "active_since": "1872-08-26"
+  },
+  "HU": {
+    "country_name": "Hungary",
+    "official_country_name": "Hungary",
+    "iso_alpha3_code": "HUN",
+    "currency_code": "HUF",
+    "currency_name": "Forint",
+    "active_since": "1946-07-23"
+  },
+  "ID": {
+    "country_name": "Indonesia",
+    "official_country_name": "Republic of Indonesia",
+    "iso_alpha3_code": "IDN",
+    "currency_code": "IDR",
+    "currency_name": "Rupiah",
+    "active_since": "1965-12-13"
+  },
+  "IE": {
+    "country_name": "Ireland",
+    "official_country_name": "Ireland",
+    "iso_alpha3_code": "IRL",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "IL": {
+    "country_name": "Israel",
+    "official_country_name": "State of Israel",
+    "iso_alpha3_code": "ISR",
+    "currency_code": "ILS",
+    "currency_name": "New Israeli Sheqel",
+    "active_since": "1985-09-04"
+  },
+  "IM": {
+    "country_name": "Isle of Man",
+    "official_country_name": "Isle of Man",
+    "iso_alpha3_code": "IMN",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "active_since": "1840-01-03"
+  },
+  "IN": {
+    "country_name": "India",
+    "official_country_name": "Republic of India",
+    "iso_alpha3_code": "IND",
+    "currency_code": "INR",
+    "currency_name": "Indian Rupee",
+    "active_since": "1835-08-17"
+  },
+  "IO": {
+    "country_name": "British Indian Ocean Territory",
+    "official_country_name": "British Indian Ocean Territory",
+    "iso_alpha3_code": "IOT",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1965-11-08"
+  },
+  "IQ": {
+    "country_name": "Iraq",
+    "official_country_name": "Republic of Iraq",
+    "iso_alpha3_code": "IRQ",
+    "currency_code": "IQD",
+    "currency_name": "Iraqi Dinar",
+    "active_since": "1931-04-19"
+  },
+  "IR": {
+    "country_name": "Iran, Islamic Republic of",
+    "official_country_name": "Islamic Republic of Iran",
+    "iso_alpha3_code": "IRN",
+    "currency_code": "IRR",
+    "currency_name": "Iranian Rial",
+    "active_since": "1932-05-13"
+  },
+  "IS": {
+    "country_name": "Iceland",
+    "official_country_name": "Republic of Iceland",
+    "iso_alpha3_code": "ISL",
+    "currency_code": "ISK",
+    "currency_name": "Iceland Krona",
+    "active_since": "1981-01-01"
+  },
+  "IT": {
+    "country_name": "Italy",
+    "official_country_name": "Italian Republic",
+    "iso_alpha3_code": "ITA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "JE": {
+    "country_name": "Jersey",
+    "official_country_name": "Jersey",
+    "iso_alpha3_code": "JEY",
+    "currency_code": "GBP",
+    "currency_name": "Pound Sterling",
+    "active_since": "1837-01-01"
+  },
+  "JM": {
+    "country_name": "Jamaica",
+    "official_country_name": "Jamaica",
+    "iso_alpha3_code": "JAM",
+    "currency_code": "JMD",
+    "currency_name": "Jamaican Dollar",
+    "active_since": "1969-09-08"
+  },
+  "JO": {
+    "country_name": "Jordan",
+    "official_country_name": "Hashemite Kingdom of Jordan",
+    "iso_alpha3_code": "JOR",
+    "currency_code": "JOD",
+    "currency_name": "Jordanian Dinar",
+    "active_since": "1950-07-01"
+  },
+  "JP": {
+    "country_name": "Japan",
+    "official_country_name": "Japan",
+    "iso_alpha3_code": "JPN",
+    "currency_code": "JPY",
+    "currency_name": "Yen",
+    "active_since": "1871-06-01"
+  },
+  "KE": {
+    "country_name": "Kenya",
+    "official_country_name": "Republic of Kenya",
+    "iso_alpha3_code": "KEN",
+    "currency_code": "KES",
+    "currency_name": "Kenyan Shilling",
+    "active_since": "1966-09-14"
+  },
+  "KG": {
+    "country_name": "Kyrgyzstan",
+    "official_country_name": "Kyrgyz Republic",
+    "iso_alpha3_code": "KGZ",
+    "currency_code": "KGS",
+    "currency_name": "Som",
+    "active_since": "1993-05-10"
+  },
+  "KH": {
+    "country_name": "Cambodia",
+    "official_country_name": "Kingdom of Cambodia",
+    "iso_alpha3_code": "KHM",
+    "currency_code": "KHR",
+    "currency_name": "Riel",
+    "active_since": "1980-03-20"
+  },
+  "KI": {
+    "country_name": "Kiribati",
+    "official_country_name": "Republic of Kiribati",
+    "iso_alpha3_code": "KIR",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "KM": {
+    "country_name": "Comoros",
+    "official_country_name": "Union of the Comoros",
+    "iso_alpha3_code": "COM",
+    "currency_code": "KMF",
+    "currency_name": "Comorian Franc",
+    "active_since": "1975-07-06"
+  },
+  "KN": {
+    "country_name": "Saint Kitts and Nevis",
+    "official_country_name": "Saint Kitts and Nevis",
+    "iso_alpha3_code": "KNA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "KP": {
+    "country_name": "Korea, Democratic People's Republic of",
+    "official_country_name": "Democratic People's Republic of Korea",
+    "iso_alpha3_code": "PRK",
+    "currency_code": "KPW",
+    "currency_name": "North Korean Won",
+    "active_since": "1959-04-17"
+  },
+  "KR": {
+    "country_name": "Korea, Republic of",
+    "official_country_name": "Korea, Republic of",
+    "iso_alpha3_code": "KOR",
+    "currency_code": "KRW",
+    "currency_name": "Won",
+    "active_since": "1962-06-10"
+  },
+  "KW": {
+    "country_name": "Kuwait",
+    "official_country_name": "State of Kuwait",
+    "iso_alpha3_code": "KWT",
+    "currency_code": "KWD",
+    "currency_name": "Kuwaiti Dinar",
+    "active_since": "1961-04-01"
+  },
+  "KY": {
+    "country_name": "Cayman Islands",
+    "official_country_name": "Cayman Islands",
+    "iso_alpha3_code": "CYM",
+    "currency_code": "KYD",
+    "currency_name": "Cayman Islands Dollar",
+    "active_since": "1971-01-01"
+  },
+  "KZ": {
+    "country_name": "Kazakhstan",
+    "official_country_name": "Republic of Kazakhstan",
+    "iso_alpha3_code": "KAZ",
+    "currency_code": "KZT",
+    "currency_name": "Tenge",
+    "active_since": "1993-11-05"
+  },
+  "LA": {
+    "country_name": "Lao People's Democratic Republic",
+    "official_country_name": "Lao People's Democratic Republic",
+    "iso_alpha3_code": "LAO",
+    "currency_code": "LAK",
+    "currency_name": "Lao Kip",
+    "active_since": "1979-12-10"
+  },
+  "LB": {
+    "country_name": "Lebanon",
+    "official_country_name": "Lebanese Republic",
+    "iso_alpha3_code": "LBN",
+    "currency_code": "LBP",
+    "currency_name": "Lebanese Pound",
+    "active_since": "1948-02-02"
+  },
+  "LC": {
+    "country_name": "Saint Lucia",
+    "official_country_name": "Saint Lucia",
+    "iso_alpha3_code": "LCA",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "LI": {
+    "country_name": "Liechtenstein",
+    "official_country_name": "Principality of Liechtenstein",
+    "iso_alpha3_code": "LIE",
+    "currency_code": "CHF",
+    "currency_name": "Swiss Franc",
+    "active_since": "1921-02-01"
+  },
+  "LK": {
+    "country_name": "Sri Lanka",
+    "official_country_name": "Democratic Socialist Republic of Sri Lanka",
+    "iso_alpha3_code": "LKA",
+    "currency_code": "LKR",
+    "currency_name": "Sri Lanka Rupee",
+    "active_since": "1978-05-22"
+  },
+  "LR": {
+    "country_name": "Liberia",
+    "official_country_name": "Republic of Liberia",
+    "iso_alpha3_code": "LBR",
+    "currency_code": "LRD",
+    "currency_name": "Liberian Dollar",
+    "active_since": "1944-01-01"
+  },
+  "LS": {
+    "country_name": "Lesotho",
+    "official_country_name": "Kingdom of Lesotho",
+    "iso_alpha3_code": "LSO",
+    "currency_code": "ZAR",
+    "currency_name": "Rand",
+    "active_since": "1961-02-14"
+  },
+  "LT": {
+    "country_name": "Lithuania",
+    "official_country_name": "Republic of Lithuania",
+    "iso_alpha3_code": "LTU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2015-01-01"
+  },
+  "LU": {
+    "country_name": "Luxembourg",
+    "official_country_name": "Grand Duchy of Luxembourg",
+    "iso_alpha3_code": "LUX",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "LV": {
+    "country_name": "Latvia",
+    "official_country_name": "Republic of Latvia",
+    "iso_alpha3_code": "LVA",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2014-01-01"
+  },
+  "LY": {
+    "country_name": "Libya",
+    "official_country_name": "Libya",
+    "iso_alpha3_code": "LBY",
+    "currency_code": "LYD",
+    "currency_name": "Libyan Dinar",
+    "active_since": "1971-09-01"
+  },
+  "MA": {
+    "country_name": "Morocco",
+    "official_country_name": "Kingdom of Morocco",
+    "iso_alpha3_code": "MAR",
+    "currency_code": "MAD",
+    "currency_name": "Moroccan Dirham",
+    "active_since": "1959-10-17"
+  },
+  "MC": {
+    "country_name": "Monaco",
+    "official_country_name": "Principality of Monaco",
+    "iso_alpha3_code": "MCO",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "MD": {
+    "country_name": "Moldova, Republic of",
+    "official_country_name": "Republic of Moldova",
+    "iso_alpha3_code": "MDA",
+    "currency_code": "MDL",
+    "currency_name": "Moldovan Leu",
+    "active_since": "1993-11-29"
+  },
+  "ME": {
+    "country_name": "Montenegro",
+    "official_country_name": "Montenegro",
+    "iso_alpha3_code": "MNE",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2002-01-01"
+  },
+  "MF": {
+    "country_name": "Saint Martin (French part)",
+    "official_country_name": "Saint Martin (French part)",
+    "iso_alpha3_code": "MAF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "MG": {
+    "country_name": "Madagascar",
+    "official_country_name": "Republic of Madagascar",
+    "iso_alpha3_code": "MDG",
+    "currency_code": "MGA",
+    "currency_name": "Malagasy Ariary",
+    "active_since": "1983-11-01"
+  },
+  "MH": {
+    "country_name": "Marshall Islands",
+    "official_country_name": "Republic of the Marshall Islands",
+    "iso_alpha3_code": "MHL",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-01-01"
+  },
+  "MK": {
+    "country_name": "North Macedonia",
+    "official_country_name": "Republic of North Macedonia",
+    "iso_alpha3_code": "MKD",
+    "currency_code": "MKD",
+    "currency_name": "Denar",
+    "active_since": "1993-05-20"
+  },
+  "ML": {
+    "country_name": "Mali",
+    "official_country_name": "Republic of Mali",
+    "iso_alpha3_code": "MLI",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1984-06-01"
+  },
+  "MM": {
+    "country_name": "Myanmar",
+    "official_country_name": "Republic of Myanmar",
+    "iso_alpha3_code": "MMR",
+    "currency_code": "MMK",
+    "currency_name": "Kyat",
+    "active_since": "1989-06-18"
+  },
+  "MN": {
+    "country_name": "Mongolia",
+    "official_country_name": "Mongolia",
+    "iso_alpha3_code": "MNG",
+    "currency_code": "MNT",
+    "currency_name": "Tugrik",
+    "active_since": "1915-03-01"
+  },
+  "MO": {
+    "country_name": "Macao",
+    "official_country_name": "Macao Special Administrative Region of China",
+    "iso_alpha3_code": "MAC",
+    "currency_code": "MOP",
+    "currency_name": "Pataca",
+    "active_since": "1901-01-01"
+  },
+  "MP": {
+    "country_name": "Northern Mariana Islands",
+    "official_country_name": "Commonwealth of the Northern Mariana Islands",
+    "iso_alpha3_code": "MNP",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-01-01"
+  },
+  "MQ": {
+    "country_name": "Martinique",
+    "official_country_name": "Martinique",
+    "iso_alpha3_code": "MTQ",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "MR": {
+    "country_name": "Mauritania",
+    "official_country_name": "Islamic Republic of Mauritania",
+    "iso_alpha3_code": "MRT",
+    "currency_code": "MRU",
+    "currency_name": "Ouguiya",
+    "active_since": "2018-01-01"
+  },
+  "MS": {
+    "country_name": "Montserrat",
+    "official_country_name": "Montserrat",
+    "iso_alpha3_code": "MSR",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1967-02-27"
+  },
+  "MT": {
+    "country_name": "Malta",
+    "official_country_name": "Republic of Malta",
+    "iso_alpha3_code": "MLT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2008-01-01"
+  },
+  "MU": {
+    "country_name": "Mauritius",
+    "official_country_name": "Republic of Mauritius",
+    "iso_alpha3_code": "MUS",
+    "currency_code": "MUR",
+    "currency_name": "Mauritius Rupee",
+    "active_since": "1934-04-01"
+  },
+  "MV": {
+    "country_name": "Maldives",
+    "official_country_name": "Republic of Maldives",
+    "iso_alpha3_code": "MDV",
+    "currency_code": "MVR",
+    "currency_name": "Rufiyaa",
+    "active_since": "1981-07-01"
+  },
+  "MW": {
+    "country_name": "Malawi",
+    "official_country_name": "Republic of Malawi",
+    "iso_alpha3_code": "MWI",
+    "currency_code": "MWK",
+    "currency_name": "Malawi Kwacha",
+    "active_since": "1971-02-15"
+  },
+  "MX": {
+    "country_name": "Mexico",
+    "official_country_name": "United Mexican States",
+    "iso_alpha3_code": "MEX",
+    "currency_code": "MXN",
+    "currency_name": "Mexican Peso",
+    "active_since": "1993-01-01"
+  },
+  "MY": {
+    "country_name": "Malaysia",
+    "official_country_name": "Malaysia",
+    "iso_alpha3_code": "MYS",
+    "currency_code": "MYR",
+    "currency_name": "Malaysian Ringgit",
+    "active_since": "1963-09-16"
+  },
+  "MZ": {
+    "country_name": "Mozambique",
+    "official_country_name": "Republic of Mozambique",
+    "iso_alpha3_code": "MOZ",
+    "currency_code": "MZN",
+    "currency_name": "Mozambique Metical",
+    "active_since": "2006-07-01"
+  },
+  "NA": {
+    "country_name": "Namibia",
+    "official_country_name": "Republic of Namibia",
+    "iso_alpha3_code": "NAM",
+    "currency_code": "NAD",
+    "currency_name": "Namibia Dollar",
+    "active_since": "1993-01-01"
+  },
+  "NC": {
+    "country_name": "New Caledonia",
+    "official_country_name": "New Caledonia",
+    "iso_alpha3_code": "NCL",
+    "currency_code": "XPF",
+    "currency_name": "CFP Franc",
+    "active_since": "1985-01-01"
+  },
+  "NE": {
+    "country_name": "Niger",
+    "official_country_name": "Republic of the Niger",
+    "iso_alpha3_code": "NER",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1958-12-19"
+  },
+  "NF": {
+    "country_name": "Norfolk Island",
+    "official_country_name": "Norfolk Island",
+    "iso_alpha3_code": "NFK",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "NG": {
+    "country_name": "Nigeria",
+    "official_country_name": "Federal Republic of Nigeria",
+    "iso_alpha3_code": "NGA",
+    "currency_code": "NGN",
+    "currency_name": "Naira",
+    "active_since": "1973-01-01"
+  },
+  "NI": {
+    "country_name": "Nicaragua",
+    "official_country_name": "Republic of Nicaragua",
+    "iso_alpha3_code": "NIC",
+    "currency_code": "NIO",
+    "currency_name": "Cordoba Oro",
+    "active_since": "1991-04-30"
+  },
+  "NL": {
+    "country_name": "Netherlands",
+    "official_country_name": "Kingdom of the Netherlands",
+    "iso_alpha3_code": "NLD",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "NO": {
+    "country_name": "Norway",
+    "official_country_name": "Kingdom of Norway",
+    "iso_alpha3_code": "NOR",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "active_since": "1905-06-07"
+  },
+  "NP": {
+    "country_name": "Nepal",
+    "official_country_name": "Federal Democratic Republic of Nepal",
+    "iso_alpha3_code": "NPL",
+    "currency_code": "NPR",
+    "currency_name": "Nepalese Rupee",
+    "active_since": "1933-01-01"
+  },
+  "NR": {
+    "country_name": "Nauru",
+    "official_country_name": "Republic of Nauru",
+    "iso_alpha3_code": "NRU",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "NU": {
+    "country_name": "Niue",
+    "official_country_name": "Niue",
+    "iso_alpha3_code": "NIU",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "active_since": "1967-07-10"
+  },
+  "NZ": {
+    "country_name": "New Zealand",
+    "official_country_name": "New Zealand",
+    "iso_alpha3_code": "NZL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "active_since": "1967-07-10"
+  },
+  "OM": {
+    "country_name": "Oman",
+    "official_country_name": "Sultanate of Oman",
+    "iso_alpha3_code": "OMN",
+    "currency_code": "OMR",
+    "currency_name": "Rial Omani",
+    "active_since": "1972-11-11"
+  },
+  "PA": {
+    "country_name": "Panama",
+    "official_country_name": "Republic of Panama",
+    "iso_alpha3_code": "PAN",
+    "currency_code": "PAB",
+    "currency_name": "Balboa",
+    "active_since": "1903-11-04"
+  },
+  "PE": {
+    "country_name": "Peru",
+    "official_country_name": "Republic of Peru",
+    "iso_alpha3_code": "PER",
+    "currency_code": "PEN",
+    "currency_name": "Sol",
+    "active_since": "1991-07-01"
+  },
+  "PF": {
+    "country_name": "French Polynesia",
+    "official_country_name": "French Polynesia",
+    "iso_alpha3_code": "PYF",
+    "currency_code": "XPF",
+    "currency_name": "CFP Franc",
+    "active_since": "1945-12-26"
+  },
+  "PG": {
+    "country_name": "Papua New Guinea",
+    "official_country_name": "Independent State of Papua New Guinea",
+    "iso_alpha3_code": "PNG",
+    "currency_code": "PGK",
+    "currency_name": "Kina",
+    "active_since": "1975-09-16"
+  },
+  "PH": {
+    "country_name": "Philippines",
+    "official_country_name": "Republic of the Philippines",
+    "iso_alpha3_code": "PHL",
+    "currency_code": "PHP",
+    "currency_name": "Philippine Peso",
+    "active_since": "1946-07-04"
+  },
+  "PK": {
+    "country_name": "Pakistan",
+    "official_country_name": "Islamic Republic of Pakistan",
+    "iso_alpha3_code": "PAK",
+    "currency_code": "PKR",
+    "currency_name": "Pakistan Rupee",
+    "active_since": "1948-04-01"
+  },
+  "PL": {
+    "country_name": "Poland",
+    "official_country_name": "Republic of Poland",
+    "iso_alpha3_code": "POL",
+    "currency_code": "PLN",
+    "currency_name": "Zloty",
+    "active_since": "1995-01-01"
+  },
+  "PM": {
+    "country_name": "Saint Pierre and Miquelon",
+    "official_country_name": "Saint Pierre and Miquelon",
+    "iso_alpha3_code": "SPM",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "PN": {
+    "country_name": "Pitcairn",
+    "official_country_name": "Pitcairn",
+    "iso_alpha3_code": "PCN",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "active_since": "1969-01-13"
+  },
+  "PR": {
+    "country_name": "Puerto Rico",
+    "official_country_name": "Puerto Rico",
+    "iso_alpha3_code": "PRI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1898-12-10"
+  },
+  "PS": {
+    "country_name": "Palestine, State of",
+    "official_country_name": "the State of Palestine",
+    "iso_alpha3_code": "PSE",
+    "currency_code": "ILS",
+    "currency_name": "New Israeli Sheqel",
+    "active_since": "1985-09-04"
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "official_country_name": "Portuguese Republic",
+    "iso_alpha3_code": "PRT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "PW": {
+    "country_name": "Palau",
+    "official_country_name": "Republic of Palau",
+    "iso_alpha3_code": "PLW",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-01-01"
+  },
+  "PY": {
+    "country_name": "Paraguay",
+    "official_country_name": "Republic of Paraguay",
+    "iso_alpha3_code": "PRY",
+    "currency_code": "PYG",
+    "currency_name": "Guarani",
+    "active_since": "1943-11-01"
+  },
+  "QA": {
+    "country_name": "Qatar",
+    "official_country_name": "State of Qatar",
+    "iso_alpha3_code": "QAT",
+    "currency_code": "QAR",
+    "currency_name": "Qatari Rial",
+    "active_since": "1973-05-19"
+  },
+  "RE": {
+    "country_name": "Réunion",
+    "official_country_name": "Réunion",
+    "iso_alpha3_code": "REU",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "RO": {
+    "country_name": "Romania",
+    "official_country_name": "Romania",
+    "iso_alpha3_code": "ROU",
+    "currency_code": "RON",
+    "currency_name": "Romanian Leu",
+    "active_since": "2005-07-01"
+  },
+  "RS": {
+    "country_name": "Serbia",
+    "official_country_name": "Republic of Serbia",
+    "iso_alpha3_code": "SRB",
+    "currency_code": "RSD",
+    "currency_name": "Serbian Dinar",
+    "active_since": "2006-10-25"
+  },
+  "RU": {
+    "country_name": "Russian Federation",
+    "official_country_name": "Russian Federation",
+    "iso_alpha3_code": "RUS",
+    "currency_code": "RUB",
+    "currency_name": "Russian Ruble",
+    "active_since": "1999-01-01"
+  },
+  "RW": {
+    "country_name": "Rwanda",
+    "official_country_name": "Rwandese Republic",
+    "iso_alpha3_code": "RWA",
+    "currency_code": "RWF",
+    "currency_name": "Rwanda Franc",
+    "active_since": "1964-05-19"
+  },
+  "SA": {
+    "country_name": "Saudi Arabia",
+    "official_country_name": "Kingdom of Saudi Arabia",
+    "iso_alpha3_code": "SAU",
+    "currency_code": "SAR",
+    "currency_name": "Saudi Riyal",
+    "active_since": "1952-10-22"
+  },
+  "SB": {
+    "country_name": "Solomon Islands",
+    "official_country_name": "Solomon Islands",
+    "iso_alpha3_code": "SLB",
+    "currency_code": "SBD",
+    "currency_name": "Solomon Islands Dollar",
+    "active_since": "1977-10-24"
+  },
+  "SC": {
+    "country_name": "Seychelles",
+    "official_country_name": "Republic of Seychelles",
+    "iso_alpha3_code": "SYC",
+    "currency_code": "SCR",
+    "currency_name": "Seychelles Rupee",
+    "active_since": "1903-11-01"
+  },
+  "SD": {
+    "country_name": "Sudan",
+    "official_country_name": "Republic of the Sudan",
+    "iso_alpha3_code": "SDN",
+    "currency_code": "SDG",
+    "currency_name": "Sudanese Pound",
+    "active_since": "2007-01-10"
+  },
+  "SE": {
+    "country_name": "Sweden",
+    "official_country_name": "Kingdom of Sweden",
+    "iso_alpha3_code": "SWE",
+    "currency_code": "SEK",
+    "currency_name": "Swedish Krona",
+    "active_since": "1873-05-27"
+  },
+  "SG": {
+    "country_name": "Singapore",
+    "official_country_name": "Republic of Singapore",
+    "iso_alpha3_code": "SGP",
+    "currency_code": "SGD",
+    "currency_name": "Singapore Dollar",
+    "active_since": "1967-06-12"
+  },
+  "SH": {
+    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "official_country_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso_alpha3_code": "SHN",
+    "currency_code": "SHP",
+    "currency_name": "Saint Helena Pound",
+    "active_since": "1917-02-15"
+  },
+  "SI": {
+    "country_name": "Slovenia",
+    "official_country_name": "Republic of Slovenia",
+    "iso_alpha3_code": "SVN",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2007-01-01"
+  },
+  "SJ": {
+    "country_name": "Svalbard and Jan Mayen",
+    "official_country_name": "Svalbard and Jan Mayen",
+    "iso_alpha3_code": "SJM",
+    "currency_code": "NOK",
+    "currency_name": "Norwegian Krone",
+    "active_since": "1905-06-07"
+  },
+  "SK": {
+    "country_name": "Slovakia",
+    "official_country_name": "Slovak Republic",
+    "iso_alpha3_code": "SVK",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "2009-01-01"
+  },
+  "SL": {
+    "country_name": "Sierra Leone",
+    "official_country_name": "Republic of Sierra Leone",
+    "iso_alpha3_code": "SLE",
+    "currency_code": "SLE",
+    "currency_name": "Leone",
+    "active_since": "2022-07-01"
+  },
+  "SM": {
+    "country_name": "San Marino",
+    "official_country_name": "Republic of San Marino",
+    "iso_alpha3_code": "SMR",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "SN": {
+    "country_name": "Senegal",
+    "official_country_name": "Republic of Senegal",
+    "iso_alpha3_code": "SEN",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1959-04-04"
+  },
+  "SO": {
+    "country_name": "Somalia",
+    "official_country_name": "Federal Republic of Somalia",
+    "iso_alpha3_code": "SOM",
+    "currency_code": "SOS",
+    "currency_name": "Somali Shilling",
+    "active_since": "1960-07-01"
+  },
+  "SR": {
+    "country_name": "Suriname",
+    "official_country_name": "Republic of Suriname",
+    "iso_alpha3_code": "SUR",
+    "currency_code": "SRD",
+    "currency_name": "Surinam Dollar",
+    "active_since": "2004-01-01"
+  },
+  "SS": {
+    "country_name": "South Sudan",
+    "official_country_name": "Republic of South Sudan",
+    "iso_alpha3_code": "SSD",
+    "currency_code": "SSP",
+    "currency_name": "South Sudanese Pound",
+    "active_since": "2011-07-18"
+  },
+  "ST": {
+    "country_name": "Sao Tome and Principe",
+    "official_country_name": "Democratic Republic of Sao Tome and Principe",
+    "iso_alpha3_code": "STP",
+    "currency_code": "STN",
+    "currency_name": "Dobra",
+    "active_since": "2018-01-01"
+  },
+  "SV": {
+    "country_name": "El Salvador",
+    "official_country_name": "Republic of El Salvador",
+    "iso_alpha3_code": "SLV",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "2001-01-01"
+  },
+  "SX": {
+    "country_name": "Sint Maarten (Dutch part)",
+    "official_country_name": "Sint Maarten (Dutch part)",
+    "iso_alpha3_code": "SXM",
+    "currency_code": "XCG",
+    "currency_name": "XCG",
+    "active_since": "2025-03-31"
+  },
+  "SY": {
+    "country_name": "Syrian Arab Republic",
+    "official_country_name": "Syrian Arab Republic",
+    "iso_alpha3_code": "SYR",
+    "currency_code": "SYP",
+    "currency_name": "Syrian Pound",
+    "active_since": "1948-01-01"
+  },
+  "SZ": {
+    "country_name": "Eswatini",
+    "official_country_name": "Kingdom of Eswatini",
+    "iso_alpha3_code": "SWZ",
+    "currency_code": "SZL",
+    "currency_name": "Lilangeni",
+    "active_since": "1974-09-06"
+  },
+  "TC": {
+    "country_name": "Turks and Caicos Islands",
+    "official_country_name": "Turks and Caicos Islands",
+    "iso_alpha3_code": "TCA",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1969-09-08"
+  },
+  "TD": {
+    "country_name": "Chad",
+    "official_country_name": "Republic of Chad",
+    "iso_alpha3_code": "TCD",
+    "currency_code": "XAF",
+    "currency_name": "CFA Franc BEAC",
+    "active_since": "1993-01-01"
+  },
+  "TF": {
+    "country_name": "French Southern Territories",
+    "official_country_name": "French Southern Territories",
+    "iso_alpha3_code": "ATF",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "TG": {
+    "country_name": "Togo",
+    "official_country_name": "Togolese Republic",
+    "iso_alpha3_code": "TGO",
+    "currency_code": "XOF",
+    "currency_name": "CFA Franc BCEAO",
+    "active_since": "1958-11-28"
+  },
+  "TH": {
+    "country_name": "Thailand",
+    "official_country_name": "Kingdom of Thailand",
+    "iso_alpha3_code": "THA",
+    "currency_code": "THB",
+    "currency_name": "Baht",
+    "active_since": "1928-04-15"
+  },
+  "TJ": {
+    "country_name": "Tajikistan",
+    "official_country_name": "Republic of Tajikistan",
+    "iso_alpha3_code": "TJK",
+    "currency_code": "TJS",
+    "currency_name": "Somoni",
+    "active_since": "2000-10-26"
+  },
+  "TK": {
+    "country_name": "Tokelau",
+    "official_country_name": "Tokelau",
+    "iso_alpha3_code": "TKL",
+    "currency_code": "NZD",
+    "currency_name": "New Zealand Dollar",
+    "active_since": "1967-07-10"
+  },
+  "TL": {
+    "country_name": "Timor-Leste",
+    "official_country_name": "Democratic Republic of Timor-Leste",
+    "iso_alpha3_code": "TLS",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1999-10-20"
+  },
+  "TM": {
+    "country_name": "Turkmenistan",
+    "official_country_name": "Turkmenistan",
+    "iso_alpha3_code": "TKM",
+    "currency_code": "TMT",
+    "currency_name": "Turkmenistan New Manat",
+    "active_since": "2009-01-01"
+  },
+  "TN": {
+    "country_name": "Tunisia",
+    "official_country_name": "Republic of Tunisia",
+    "iso_alpha3_code": "TUN",
+    "currency_code": "TND",
+    "currency_name": "Tunisian Dinar",
+    "active_since": "1958-11-01"
+  },
+  "TO": {
+    "country_name": "Tonga",
+    "official_country_name": "Kingdom of Tonga",
+    "iso_alpha3_code": "TON",
+    "currency_code": "TOP",
+    "currency_name": "Pa’anga",
+    "active_since": "1966-02-14"
+  },
+  "TR": {
+    "country_name": "Türkiye",
+    "official_country_name": "Republic of Türkiye",
+    "iso_alpha3_code": "TUR",
+    "currency_code": "TRY",
+    "currency_name": "Turkish Lira",
+    "active_since": "2005-01-01"
+  },
+  "TT": {
+    "country_name": "Trinidad and Tobago",
+    "official_country_name": "Republic of Trinidad and Tobago",
+    "iso_alpha3_code": "TTO",
+    "currency_code": "TTD",
+    "currency_name": "Trinidad and Tobago Dollar",
+    "active_since": "1964-01-01"
+  },
+  "TV": {
+    "country_name": "Tuvalu",
+    "official_country_name": "Tuvalu",
+    "iso_alpha3_code": "TUV",
+    "currency_code": "AUD",
+    "currency_name": "Australian Dollar",
+    "active_since": "1966-02-14"
+  },
+  "TW": {
+    "country_name": "Taiwan, Province of China",
+    "official_country_name": "Taiwan, Province of China",
+    "iso_alpha3_code": "TWN",
+    "currency_code": "TWD",
+    "currency_name": "New Taiwan Dollar",
+    "active_since": "1949-06-15"
+  },
+  "TZ": {
+    "country_name": "Tanzania, United Republic of",
+    "official_country_name": "United Republic of Tanzania",
+    "iso_alpha3_code": "TZA",
+    "currency_code": "TZS",
+    "currency_name": "Tanzanian Shilling",
+    "active_since": "1966-06-14"
+  },
+  "UA": {
+    "country_name": "Ukraine",
+    "official_country_name": "Ukraine",
+    "iso_alpha3_code": "UKR",
+    "currency_code": "UAH",
+    "currency_name": "Hryvnia",
+    "active_since": "1996-09-02"
+  },
+  "UG": {
+    "country_name": "Uganda",
+    "official_country_name": "Republic of Uganda",
+    "iso_alpha3_code": "UGA",
+    "currency_code": "UGX",
+    "currency_name": "Uganda Shilling",
+    "active_since": "1987-05-15"
+  },
+  "UM": {
+    "country_name": "United States Minor Outlying Islands",
+    "official_country_name": "United States Minor Outlying Islands",
+    "iso_alpha3_code": "UMI",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1944-01-01"
+  },
+  "US": {
+    "country_name": "United States",
+    "official_country_name": "United States of America",
+    "iso_alpha3_code": "USA",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1792-01-01"
+  },
+  "UY": {
+    "country_name": "Uruguay",
+    "official_country_name": "Eastern Republic of Uruguay",
+    "iso_alpha3_code": "URY",
+    "currency_code": "UYU",
+    "currency_name": "Peso Uruguayo",
+    "active_since": "1993-03-01"
+  },
+  "UZ": {
+    "country_name": "Uzbekistan",
+    "official_country_name": "Republic of Uzbekistan",
+    "iso_alpha3_code": "UZB",
+    "currency_code": "UZS",
+    "currency_name": "Uzbekistan Sum",
+    "active_since": "1994-07-01"
+  },
+  "VA": {
+    "country_name": "Holy See (Vatican City State)",
+    "official_country_name": "Holy See (Vatican City State)",
+    "iso_alpha3_code": "VAT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "VC": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "official_country_name": "Saint Vincent and the Grenadines",
+    "iso_alpha3_code": "VCT",
+    "currency_code": "XCD",
+    "currency_name": "East Caribbean Dollar",
+    "active_since": "1965-10-06"
+  },
+  "VE": {
+    "country_name": "Venezuela, Bolivarian Republic of",
+    "official_country_name": "Bolivarian Republic of Venezuela",
+    "iso_alpha3_code": "VEN",
+    "currency_code": "VES",
+    "currency_name": "Bolívar Soberano",
+    "active_since": "2018-08-20"
+  },
+  "VG": {
+    "country_name": "Virgin Islands, British",
+    "official_country_name": "British Virgin Islands",
+    "iso_alpha3_code": "VGB",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1833-01-01"
+  },
+  "VI": {
+    "country_name": "Virgin Islands, U.S.",
+    "official_country_name": "Virgin Islands of the United States",
+    "iso_alpha3_code": "VIR",
+    "currency_code": "USD",
+    "currency_name": "US Dollar",
+    "active_since": "1837-01-01"
+  },
+  "VN": {
+    "country_name": "Viet Nam",
+    "official_country_name": "Socialist Republic of Viet Nam",
+    "iso_alpha3_code": "VNM",
+    "currency_code": "VND",
+    "currency_name": "Dong",
+    "active_since": "1985-09-14"
+  },
+  "VU": {
+    "country_name": "Vanuatu",
+    "official_country_name": "Republic of Vanuatu",
+    "iso_alpha3_code": "VUT",
+    "currency_code": "VUV",
+    "currency_name": "Vatu",
+    "active_since": "1981-01-01"
+  },
+  "WF": {
+    "country_name": "Wallis and Futuna",
+    "official_country_name": "Wallis and Futuna",
+    "iso_alpha3_code": "WLF",
+    "currency_code": "XPF",
+    "currency_name": "CFP Franc",
+    "active_since": "1961-07-30"
+  },
+  "WS": {
+    "country_name": "Samoa",
+    "official_country_name": "Independent State of Samoa",
+    "iso_alpha3_code": "WSM",
+    "currency_code": "WST",
+    "currency_name": "Tala",
+    "active_since": "1967-07-10"
+  },
+  "YE": {
+    "country_name": "Yemen",
+    "official_country_name": "Republic of Yemen",
+    "iso_alpha3_code": "YEM",
+    "currency_code": "YER",
+    "currency_name": "Yemeni Rial",
+    "active_since": "1990-05-22"
+  },
+  "YT": {
+    "country_name": "Mayotte",
+    "official_country_name": "Mayotte",
+    "iso_alpha3_code": "MYT",
+    "currency_code": "EUR",
+    "currency_name": "Euro",
+    "active_since": "1999-01-01"
+  },
+  "ZA": {
+    "country_name": "South Africa",
+    "official_country_name": "Republic of South Africa",
+    "iso_alpha3_code": "ZAF",
+    "currency_code": "ZAR",
+    "currency_name": "Rand",
+    "active_since": "1961-02-14"
+  },
+  "ZM": {
+    "country_name": "Zambia",
+    "official_country_name": "Republic of Zambia",
+    "iso_alpha3_code": "ZMB",
+    "currency_code": "ZMW",
+    "currency_name": "Zambian Kwacha",
+    "active_since": "2013-01-01"
+  },
+  "ZW": {
+    "country_name": "Zimbabwe",
+    "official_country_name": "Republic of Zimbabwe",
+    "iso_alpha3_code": "ZWE",
+    "currency_code": "ZWG",
+    "currency_name": "ZWG",
+    "active_since": "2024-06-25"
+  }
+}

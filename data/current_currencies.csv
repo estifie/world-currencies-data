@@ -1,0 +1,249 @@
+country_code,country_name,official_country_name,iso_alpha3_code,currency_code,currency_name,active_since,last_updated
+AD,Andorra,Principality of Andorra,AND,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149332+00:00
+AE,United Arab Emirates,United Arab Emirates,ARE,AED,UAE Dirham,1973-05-19,2025-09-09T15:06:07.149370+00:00
+AF,Afghanistan,Islamic Republic of Afghanistan,AFG,AFN,Afghani,2002-10-07,2025-09-09T15:06:07.149385+00:00
+AG,Antigua and Barbuda,Antigua and Barbuda,ATG,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.149397+00:00
+AI,Anguilla,Anguilla,AIA,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.149409+00:00
+AL,Albania,Republic of Albania,ALB,ALL,Lek,1965-08-16,2025-09-09T15:06:07.149420+00:00
+AM,Armenia,Republic of Armenia,ARM,AMD,Armenian Dram,1993-11-22,2025-09-09T15:06:07.149436+00:00
+AO,Angola,Republic of Angola,AGO,AOA,Kwanza,1999-12-13,2025-09-09T15:06:07.149449+00:00
+AR,Argentina,Argentine Republic,ARG,ARS,Argentine Peso,1992-01-01,2025-09-09T15:06:07.149465+00:00
+AS,American Samoa,American Samoa,ASM,USD,US Dollar,1904-07-16,2025-09-09T15:06:07.149476+00:00
+AT,Austria,Republic of Austria,AUT,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149486+00:00
+AU,Australia,Australia,AUS,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.149496+00:00
+AW,Aruba,Aruba,ABW,AWG,Aruban Florin,1986-01-01,2025-09-09T15:06:07.149505+00:00
+AX,Åland Islands,Åland Islands,ALA,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149517+00:00
+AZ,Azerbaijan,Republic of Azerbaijan,AZE,AZN,Azerbaijan Manat,2006-01-01,2025-09-09T15:06:07.149541+00:00
+BA,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,BIH,BAM,Convertible Mark,1995-01-01,2025-09-09T15:06:07.149548+00:00
+BB,Barbados,Barbados,BRB,BBD,Barbados Dollar,1973-12-03,2025-09-09T15:06:07.149553+00:00
+BD,Bangladesh,People's Republic of Bangladesh,BGD,BDT,Taka,1972-01-01,2025-09-09T15:06:07.149559+00:00
+BE,Belgium,Kingdom of Belgium,BEL,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149565+00:00
+BF,Burkina Faso,Burkina Faso,BFA,XOF,CFA Franc BCEAO,1984-08-04,2025-09-09T15:06:07.149571+00:00
+BG,Bulgaria,Republic of Bulgaria,BGR,BGN,Bulgarian Lev,1999-07-05,2025-09-09T15:06:07.149577+00:00
+BH,Bahrain,Kingdom of Bahrain,BHR,BHD,Bahraini Dinar,1965-10-16,2025-09-09T15:06:07.149582+00:00
+BI,Burundi,Republic of Burundi,BDI,BIF,Burundi Franc,1964-05-19,2025-09-09T15:06:07.149587+00:00
+BJ,Benin,Republic of Benin,BEN,XOF,CFA Franc BCEAO,1975-11-30,2025-09-09T15:06:07.149593+00:00
+BL,Saint Barthélemy,Saint Barthélemy,BLM,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149598+00:00
+BM,Bermuda,Bermuda,BMU,BMD,Bermudian Dollar,1970-02-06,2025-09-09T15:06:07.149604+00:00
+BN,Brunei Darussalam,Brunei Darussalam,BRN,BND,Brunei Dollar,1967-06-12,2025-09-09T15:06:07.149610+00:00
+BO,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BOL,BOB,Boliviano,1987-01-01,2025-09-09T15:06:07.149615+00:00
+BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",BES,USD,US Dollar,2011-01-01,2025-09-09T15:06:07.149621+00:00
+BR,Brazil,Federative Republic of Brazil,BRA,BRL,Brazilian Real,1994-07-01,2025-09-09T15:06:07.149626+00:00
+BS,Bahamas,Commonwealth of the Bahamas,BHS,BSD,Bahamian Dollar,1966-05-25,2025-09-09T15:06:07.149632+00:00
+BT,Bhutan,Kingdom of Bhutan,BTN,BTN,Ngultrum,1974-04-16,2025-09-09T15:06:07.149637+00:00
+BV,Bouvet Island,Bouvet Island,BVT,NOK,Norwegian Krone,1905-06-07,2025-09-09T15:06:07.149644+00:00
+BW,Botswana,Republic of Botswana,BWA,BWP,Pula,1976-08-23,2025-09-09T15:06:07.149650+00:00
+BY,Belarus,Republic of Belarus,BLR,BYN,Belarusian Ruble,2016-07-01,2025-09-09T15:06:07.149655+00:00
+BZ,Belize,Belize,BLZ,BZD,Belize Dollar,1974-01-01,2025-09-09T15:06:07.149661+00:00
+CA,Canada,Canada,CAN,CAD,Canadian Dollar,1858-01-01,2025-09-09T15:06:07.149667+00:00
+CC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,CCK,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.149672+00:00
+CD,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",COD,CDF,Congolese Franc,1998-07-01,2025-09-09T15:06:07.149678+00:00
+CF,Central African Republic,Central African Republic,CAF,XAF,CFA Franc BEAC,1993-01-01,2025-09-09T15:06:07.149684+00:00
+CG,Congo,Republic of the Congo,COG,XAF,CFA Franc BEAC,1993-01-01,2025-09-09T15:06:07.149690+00:00
+CH,Switzerland,Swiss Confederation,CHE,CHF,Swiss Franc,1799-03-17,2025-09-09T15:06:07.149697+00:00
+CI,Côte d'Ivoire,Republic of Côte d'Ivoire,CIV,XOF,CFA Franc BCEAO,1958-12-04,2025-09-09T15:06:07.149702+00:00
+CK,Cook Islands,Cook Islands,COK,NZD,New Zealand Dollar,1967-07-10,2025-09-09T15:06:07.149708+00:00
+CL,Chile,Republic of Chile,CHL,CLP,Chilean Peso,1975-09-29,2025-09-09T15:06:07.149714+00:00
+CM,Cameroon,Republic of Cameroon,CMR,XAF,CFA Franc BEAC,1973-04-01,2025-09-09T15:06:07.149720+00:00
+CN,China,People's Republic of China,CHN,CNY,Yuan Renminbi,1953-03-01,2025-09-09T15:06:07.149725+00:00
+CO,Colombia,Republic of Colombia,COL,COP,Colombian Peso,1905-01-01,2025-09-09T15:06:07.149731+00:00
+CR,Costa Rica,Republic of Costa Rica,CRI,CRC,Costa Rican Colon,1896-10-26,2025-09-09T15:06:07.149737+00:00
+CU,Cuba,Republic of Cuba,CUB,CUP,Cuban Peso,1859-01-01,2025-09-09T15:06:07.149743+00:00
+CV,Cabo Verde,Republic of Cabo Verde,CPV,CVE,Cabo Verde Escudo,1914-01-01,2025-09-09T15:06:07.149748+00:00
+CW,Curaçao,Curaçao,CUW,XCG,XCG,2025-03-31,2025-09-09T15:06:07.149753+00:00
+CX,Christmas Island,Christmas Island,CXR,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.149759+00:00
+CY,Cyprus,Republic of Cyprus,CYP,EUR,Euro,2008-01-01,2025-09-09T15:06:07.149765+00:00
+CZ,Czechia,Czech Republic,CZE,CZK,Czech Koruna,1993-01-01,2025-09-09T15:06:07.149770+00:00
+DE,Germany,Federal Republic of Germany,DEU,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149775+00:00
+DJ,Djibouti,Republic of Djibouti,DJI,DJF,Djibouti Franc,1977-06-27,2025-09-09T15:06:07.149781+00:00
+DK,Denmark,Kingdom of Denmark,DNK,DKK,Danish Krone,1873-05-27,2025-09-09T15:06:07.149787+00:00
+DM,Dominica,Commonwealth of Dominica,DMA,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.149792+00:00
+DO,Dominican Republic,Dominican Republic,DOM,DOP,Dominican Peso,1947-10-01,2025-09-09T15:06:07.149798+00:00
+DZ,Algeria,People's Democratic Republic of Algeria,DZA,DZD,Algerian Dinar,1964-04-01,2025-09-09T15:06:07.149804+00:00
+EC,Ecuador,Republic of Ecuador,ECU,USD,US Dollar,2000-10-02,2025-09-09T15:06:07.149809+00:00
+EE,Estonia,Republic of Estonia,EST,EUR,Euro,2011-01-01,2025-09-09T15:06:07.149816+00:00
+EG,Egypt,Arab Republic of Egypt,EGY,EGP,Egyptian Pound,1885-11-14,2025-09-09T15:06:07.149822+00:00
+EH,Western Sahara,Western Sahara,ESH,MAD,Moroccan Dirham,1976-02-26,2025-09-09T15:06:07.149828+00:00
+ER,Eritrea,the State of Eritrea,ERI,ERN,Nakfa,1997-11-08,2025-09-09T15:06:07.149834+00:00
+ES,Spain,Kingdom of Spain,ESP,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149839+00:00
+ET,Ethiopia,Federal Democratic Republic of Ethiopia,ETH,ETB,Ethiopian Birr,1976-09-15,2025-09-09T15:06:07.149845+00:00
+FI,Finland,Republic of Finland,FIN,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149850+00:00
+FJ,Fiji,Republic of Fiji,FJI,FJD,Fiji Dollar,1969-01-13,2025-09-09T15:06:07.149856+00:00
+FK,Falkland Islands (Malvinas),Falkland Islands (Malvinas),FLK,FKP,Falkland Islands Pound,1901-01-01,2025-09-09T15:06:07.149861+00:00
+FM,"Micronesia, Federated States of",Federated States of Micronesia,FSM,USD,US Dollar,1944-01-01,2025-09-09T15:06:07.149866+00:00
+FO,Faroe Islands,Faroe Islands,FRO,DKK,Danish Krone,1948-01-01,2025-09-09T15:06:07.149872+00:00
+FR,France,French Republic,FRA,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149877+00:00
+GA,Gabon,Gabonese Republic,GAB,XAF,CFA Franc BEAC,1993-01-01,2025-09-09T15:06:07.149883+00:00
+GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,GBR,GBP,Pound Sterling,1694-07-27,2025-09-09T15:06:07.149888+00:00
+GD,Grenada,Grenada,GRD,XCD,East Caribbean Dollar,1967-02-27,2025-09-09T15:06:07.149894+00:00
+GE,Georgia,Georgia,GEO,GEL,Lari,1995-09-23,2025-09-09T15:06:07.149899+00:00
+GF,French Guiana,French Guiana,GUF,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149905+00:00
+GG,Guernsey,Guernsey,GGY,GBP,Pound Sterling,1830-01-01,2025-09-09T15:06:07.149911+00:00
+GH,Ghana,Republic of Ghana,GHA,GHS,Ghana Cedi,2007-07-03,2025-09-09T15:06:07.149917+00:00
+GI,Gibraltar,Gibraltar,GIB,GIP,Gibraltar Pound,1713-01-01,2025-09-09T15:06:07.149922+00:00
+GL,Greenland,Greenland,GRL,DKK,Danish Krone,1873-05-27,2025-09-09T15:06:07.149928+00:00
+GM,Gambia,Republic of the Gambia,GMB,GMD,Dalasi,1971-07-01,2025-09-09T15:06:07.149934+00:00
+GN,Guinea,Republic of Guinea,GIN,GNF,Guinean Franc,1986-01-06,2025-09-09T15:06:07.149939+00:00
+GP,Guadeloupe,Guadeloupe,GLP,EUR,Euro,1999-01-01,2025-09-09T15:06:07.149944+00:00
+GQ,Equatorial Guinea,Republic of Equatorial Guinea,GNQ,XAF,CFA Franc BEAC,1993-01-01,2025-09-09T15:06:07.149950+00:00
+GR,Greece,Hellenic Republic,GRC,EUR,Euro,2001-01-01,2025-09-09T15:06:07.149955+00:00
+GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,SGS,GBP,Pound Sterling,1908-01-01,2025-09-09T15:06:07.149961+00:00
+GT,Guatemala,Republic of Guatemala,GTM,GTQ,Quetzal,1925-05-27,2025-09-09T15:06:07.149966+00:00
+GU,Guam,Guam,GUM,USD,US Dollar,1944-08-21,2025-09-09T15:06:07.149971+00:00
+GW,Guinea-Bissau,Republic of Guinea-Bissau,GNB,XOF,CFA Franc BCEAO,1997-03-31,2025-09-09T15:06:07.149977+00:00
+GY,Guyana,Republic of Guyana,GUY,GYD,Guyana Dollar,1966-05-26,2025-09-09T15:06:07.149982+00:00
+HK,Hong Kong,Hong Kong Special Administrative Region of China,HKG,HKD,Hong Kong Dollar,1895-02-02,2025-09-09T15:06:07.149988+00:00
+HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HMD,AUD,Australian Dollar,1967-02-16,2025-09-09T15:06:07.149994+00:00
+HN,Honduras,Republic of Honduras,HND,HNL,Lempira,1926-04-03,2025-09-09T15:06:07.149999+00:00
+HR,Croatia,Republic of Croatia,HRV,EUR,Euro,2023-01-01,2025-09-09T15:06:07.150005+00:00
+HT,Haiti,Republic of Haiti,HTI,HTG,Gourde,1872-08-26,2025-09-09T15:06:07.150010+00:00
+HU,Hungary,Hungary,HUN,HUF,Forint,1946-07-23,2025-09-09T15:06:07.150015+00:00
+ID,Indonesia,Republic of Indonesia,IDN,IDR,Rupiah,1965-12-13,2025-09-09T15:06:07.150021+00:00
+IE,Ireland,Ireland,IRL,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150027+00:00
+IL,Israel,State of Israel,ISR,ILS,New Israeli Sheqel,1985-09-04,2025-09-09T15:06:07.150032+00:00
+IM,Isle of Man,Isle of Man,IMN,GBP,Pound Sterling,1840-01-03,2025-09-09T15:06:07.150037+00:00
+IN,India,Republic of India,IND,INR,Indian Rupee,1835-08-17,2025-09-09T15:06:07.150043+00:00
+IO,British Indian Ocean Territory,British Indian Ocean Territory,IOT,USD,US Dollar,1965-11-08,2025-09-09T15:06:07.150048+00:00
+IQ,Iraq,Republic of Iraq,IRQ,IQD,Iraqi Dinar,1931-04-19,2025-09-09T15:06:07.150054+00:00
+IR,"Iran, Islamic Republic of",Islamic Republic of Iran,IRN,IRR,Iranian Rial,1932-05-13,2025-09-09T15:06:07.150059+00:00
+IS,Iceland,Republic of Iceland,ISL,ISK,Iceland Krona,1981-01-01,2025-09-09T15:06:07.150064+00:00
+IT,Italy,Italian Republic,ITA,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150070+00:00
+JE,Jersey,Jersey,JEY,GBP,Pound Sterling,1837-01-01,2025-09-09T15:06:07.150075+00:00
+JM,Jamaica,Jamaica,JAM,JMD,Jamaican Dollar,1969-09-08,2025-09-09T15:06:07.150081+00:00
+JO,Jordan,Hashemite Kingdom of Jordan,JOR,JOD,Jordanian Dinar,1950-07-01,2025-09-09T15:06:07.150086+00:00
+JP,Japan,Japan,JPN,JPY,Yen,1871-06-01,2025-09-09T15:06:07.150091+00:00
+KE,Kenya,Republic of Kenya,KEN,KES,Kenyan Shilling,1966-09-14,2025-09-09T15:06:07.150096+00:00
+KG,Kyrgyzstan,Kyrgyz Republic,KGZ,KGS,Som,1993-05-10,2025-09-09T15:06:07.150102+00:00
+KH,Cambodia,Kingdom of Cambodia,KHM,KHR,Riel,1980-03-20,2025-09-09T15:06:07.150108+00:00
+KI,Kiribati,Republic of Kiribati,KIR,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.150113+00:00
+KM,Comoros,Union of the Comoros,COM,KMF,Comorian Franc,1975-07-06,2025-09-09T15:06:07.150119+00:00
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,KNA,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.150124+00:00
+KP,"Korea, Democratic People's Republic of",Democratic People's Republic of Korea,PRK,KPW,North Korean Won,1959-04-17,2025-09-09T15:06:07.150129+00:00
+KR,"Korea, Republic of","Korea, Republic of",KOR,KRW,Won,1962-06-10,2025-09-09T15:06:07.150135+00:00
+KW,Kuwait,State of Kuwait,KWT,KWD,Kuwaiti Dinar,1961-04-01,2025-09-09T15:06:07.150140+00:00
+KY,Cayman Islands,Cayman Islands,CYM,KYD,Cayman Islands Dollar,1971-01-01,2025-09-09T15:06:07.150145+00:00
+KZ,Kazakhstan,Republic of Kazakhstan,KAZ,KZT,Tenge,1993-11-05,2025-09-09T15:06:07.150151+00:00
+LA,Lao People's Democratic Republic,Lao People's Democratic Republic,LAO,LAK,Lao Kip,1979-12-10,2025-09-09T15:06:07.150156+00:00
+LB,Lebanon,Lebanese Republic,LBN,LBP,Lebanese Pound,1948-02-02,2025-09-09T15:06:07.150162+00:00
+LC,Saint Lucia,Saint Lucia,LCA,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.150167+00:00
+LI,Liechtenstein,Principality of Liechtenstein,LIE,CHF,Swiss Franc,1921-02-01,2025-09-09T15:06:07.150173+00:00
+LK,Sri Lanka,Democratic Socialist Republic of Sri Lanka,LKA,LKR,Sri Lanka Rupee,1978-05-22,2025-09-09T15:06:07.150178+00:00
+LR,Liberia,Republic of Liberia,LBR,LRD,Liberian Dollar,1944-01-01,2025-09-09T15:06:07.150184+00:00
+LS,Lesotho,Kingdom of Lesotho,LSO,ZAR,Rand,1961-02-14,2025-09-09T15:06:07.150189+00:00
+LT,Lithuania,Republic of Lithuania,LTU,EUR,Euro,2015-01-01,2025-09-09T15:06:07.150194+00:00
+LU,Luxembourg,Grand Duchy of Luxembourg,LUX,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150200+00:00
+LV,Latvia,Republic of Latvia,LVA,EUR,Euro,2014-01-01,2025-09-09T15:06:07.150205+00:00
+LY,Libya,Libya,LBY,LYD,Libyan Dinar,1971-09-01,2025-09-09T15:06:07.150210+00:00
+MA,Morocco,Kingdom of Morocco,MAR,MAD,Moroccan Dirham,1959-10-17,2025-09-09T15:06:07.150216+00:00
+MC,Monaco,Principality of Monaco,MCO,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150221+00:00
+MD,"Moldova, Republic of",Republic of Moldova,MDA,MDL,Moldovan Leu,1993-11-29,2025-09-09T15:06:07.150226+00:00
+ME,Montenegro,Montenegro,MNE,EUR,Euro,2002-01-01,2025-09-09T15:06:07.150232+00:00
+MF,Saint Martin (French part),Saint Martin (French part),MAF,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150237+00:00
+MG,Madagascar,Republic of Madagascar,MDG,MGA,Malagasy Ariary,1983-11-01,2025-09-09T15:06:07.150243+00:00
+MH,Marshall Islands,Republic of the Marshall Islands,MHL,USD,US Dollar,1944-01-01,2025-09-09T15:06:07.150248+00:00
+MK,North Macedonia,Republic of North Macedonia,MKD,MKD,Denar,1993-05-20,2025-09-09T15:06:07.150254+00:00
+ML,Mali,Republic of Mali,MLI,XOF,CFA Franc BCEAO,1984-06-01,2025-09-09T15:06:07.150259+00:00
+MM,Myanmar,Republic of Myanmar,MMR,MMK,Kyat,1989-06-18,2025-09-09T15:06:07.150264+00:00
+MN,Mongolia,Mongolia,MNG,MNT,Tugrik,1915-03-01,2025-09-09T15:06:07.150270+00:00
+MO,Macao,Macao Special Administrative Region of China,MAC,MOP,Pataca,1901-01-01,2025-09-09T15:06:07.150275+00:00
+MP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,MNP,USD,US Dollar,1944-01-01,2025-09-09T15:06:07.150280+00:00
+MQ,Martinique,Martinique,MTQ,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150286+00:00
+MR,Mauritania,Islamic Republic of Mauritania,MRT,MRU,Ouguiya,2018-01-01,2025-09-09T15:06:07.150291+00:00
+MS,Montserrat,Montserrat,MSR,XCD,East Caribbean Dollar,1967-02-27,2025-09-09T15:06:07.150297+00:00
+MT,Malta,Republic of Malta,MLT,EUR,Euro,2008-01-01,2025-09-09T15:06:07.150302+00:00
+MU,Mauritius,Republic of Mauritius,MUS,MUR,Mauritius Rupee,1934-04-01,2025-09-09T15:06:07.150307+00:00
+MV,Maldives,Republic of Maldives,MDV,MVR,Rufiyaa,1981-07-01,2025-09-09T15:06:07.150312+00:00
+MW,Malawi,Republic of Malawi,MWI,MWK,Malawi Kwacha,1971-02-15,2025-09-09T15:06:07.150318+00:00
+MX,Mexico,United Mexican States,MEX,MXN,Mexican Peso,1993-01-01,2025-09-09T15:06:07.150323+00:00
+MY,Malaysia,Malaysia,MYS,MYR,Malaysian Ringgit,1963-09-16,2025-09-09T15:06:07.150329+00:00
+MZ,Mozambique,Republic of Mozambique,MOZ,MZN,Mozambique Metical,2006-07-01,2025-09-09T15:06:07.150334+00:00
+NA,Namibia,Republic of Namibia,NAM,NAD,Namibia Dollar,1993-01-01,2025-09-09T15:06:07.150340+00:00
+NC,New Caledonia,New Caledonia,NCL,XPF,CFP Franc,1985-01-01,2025-09-09T15:06:07.150345+00:00
+NE,Niger,Republic of the Niger,NER,XOF,CFA Franc BCEAO,1958-12-19,2025-09-09T15:06:07.150351+00:00
+NF,Norfolk Island,Norfolk Island,NFK,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.150356+00:00
+NG,Nigeria,Federal Republic of Nigeria,NGA,NGN,Naira,1973-01-01,2025-09-09T15:06:07.150361+00:00
+NI,Nicaragua,Republic of Nicaragua,NIC,NIO,Cordoba Oro,1991-04-30,2025-09-09T15:06:07.150367+00:00
+NL,Netherlands,Kingdom of the Netherlands,NLD,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150372+00:00
+NO,Norway,Kingdom of Norway,NOR,NOK,Norwegian Krone,1905-06-07,2025-09-09T15:06:07.150377+00:00
+NP,Nepal,Federal Democratic Republic of Nepal,NPL,NPR,Nepalese Rupee,1933-01-01,2025-09-09T15:06:07.150383+00:00
+NR,Nauru,Republic of Nauru,NRU,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.150388+00:00
+NU,Niue,Niue,NIU,NZD,New Zealand Dollar,1967-07-10,2025-09-09T15:06:07.150393+00:00
+NZ,New Zealand,New Zealand,NZL,NZD,New Zealand Dollar,1967-07-10,2025-09-09T15:06:07.150398+00:00
+OM,Oman,Sultanate of Oman,OMN,OMR,Rial Omani,1972-11-11,2025-09-09T15:06:07.150404+00:00
+PA,Panama,Republic of Panama,PAN,PAB,Balboa,1903-11-04,2025-09-09T15:06:07.150410+00:00
+PE,Peru,Republic of Peru,PER,PEN,Sol,1991-07-01,2025-09-09T15:06:07.150416+00:00
+PF,French Polynesia,French Polynesia,PYF,XPF,CFP Franc,1945-12-26,2025-09-09T15:06:07.150422+00:00
+PG,Papua New Guinea,Independent State of Papua New Guinea,PNG,PGK,Kina,1975-09-16,2025-09-09T15:06:07.150428+00:00
+PH,Philippines,Republic of the Philippines,PHL,PHP,Philippine Peso,1946-07-04,2025-09-09T15:06:07.150433+00:00
+PK,Pakistan,Islamic Republic of Pakistan,PAK,PKR,Pakistan Rupee,1948-04-01,2025-09-09T15:06:07.150439+00:00
+PL,Poland,Republic of Poland,POL,PLN,Zloty,1995-01-01,2025-09-09T15:06:07.150444+00:00
+PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,SPM,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150450+00:00
+PN,Pitcairn,Pitcairn,PCN,NZD,New Zealand Dollar,1969-01-13,2025-09-09T15:06:07.150455+00:00
+PR,Puerto Rico,Puerto Rico,PRI,USD,US Dollar,1898-12-10,2025-09-09T15:06:07.150461+00:00
+PS,"Palestine, State of",the State of Palestine,PSE,ILS,New Israeli Sheqel,1985-09-04,2025-09-09T15:06:07.150466+00:00
+PT,Portugal,Portuguese Republic,PRT,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150472+00:00
+PW,Palau,Republic of Palau,PLW,USD,US Dollar,1944-01-01,2025-09-09T15:06:07.150477+00:00
+PY,Paraguay,Republic of Paraguay,PRY,PYG,Guarani,1943-11-01,2025-09-09T15:06:07.150482+00:00
+QA,Qatar,State of Qatar,QAT,QAR,Qatari Rial,1973-05-19,2025-09-09T15:06:07.150488+00:00
+RE,Réunion,Réunion,REU,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150493+00:00
+RO,Romania,Romania,ROU,RON,Romanian Leu,2005-07-01,2025-09-09T15:06:07.150499+00:00
+RS,Serbia,Republic of Serbia,SRB,RSD,Serbian Dinar,2006-10-25,2025-09-09T15:06:07.150505+00:00
+RU,Russian Federation,Russian Federation,RUS,RUB,Russian Ruble,1999-01-01,2025-09-09T15:06:07.150510+00:00
+RW,Rwanda,Rwandese Republic,RWA,RWF,Rwanda Franc,1964-05-19,2025-09-09T15:06:07.150516+00:00
+SA,Saudi Arabia,Kingdom of Saudi Arabia,SAU,SAR,Saudi Riyal,1952-10-22,2025-09-09T15:06:07.150538+00:00
+SB,Solomon Islands,Solomon Islands,SLB,SBD,Solomon Islands Dollar,1977-10-24,2025-09-09T15:06:07.150544+00:00
+SC,Seychelles,Republic of Seychelles,SYC,SCR,Seychelles Rupee,1903-11-01,2025-09-09T15:06:07.150550+00:00
+SD,Sudan,Republic of the Sudan,SDN,SDG,Sudanese Pound,2007-01-10,2025-09-09T15:06:07.150555+00:00
+SE,Sweden,Kingdom of Sweden,SWE,SEK,Swedish Krona,1873-05-27,2025-09-09T15:06:07.150561+00:00
+SG,Singapore,Republic of Singapore,SGP,SGD,Singapore Dollar,1967-06-12,2025-09-09T15:06:07.150567+00:00
+SH,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SHN,SHP,Saint Helena Pound,1917-02-15,2025-09-09T15:06:07.150572+00:00
+SI,Slovenia,Republic of Slovenia,SVN,EUR,Euro,2007-01-01,2025-09-09T15:06:07.150578+00:00
+SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJM,NOK,Norwegian Krone,1905-06-07,2025-09-09T15:06:07.150584+00:00
+SK,Slovakia,Slovak Republic,SVK,EUR,Euro,2009-01-01,2025-09-09T15:06:07.150589+00:00
+SL,Sierra Leone,Republic of Sierra Leone,SLE,SLE,Leone,2022-07-01,2025-09-09T15:06:07.150595+00:00
+SM,San Marino,Republic of San Marino,SMR,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150601+00:00
+SN,Senegal,Republic of Senegal,SEN,XOF,CFA Franc BCEAO,1959-04-04,2025-09-09T15:06:07.150607+00:00
+SO,Somalia,Federal Republic of Somalia,SOM,SOS,Somali Shilling,1960-07-01,2025-09-09T15:06:07.150612+00:00
+SR,Suriname,Republic of Suriname,SUR,SRD,Surinam Dollar,2004-01-01,2025-09-09T15:06:07.150618+00:00
+SS,South Sudan,Republic of South Sudan,SSD,SSP,South Sudanese Pound,2011-07-18,2025-09-09T15:06:07.150623+00:00
+ST,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,STP,STN,Dobra,2018-01-01,2025-09-09T15:06:07.150629+00:00
+SV,El Salvador,Republic of El Salvador,SLV,USD,US Dollar,2001-01-01,2025-09-09T15:06:07.150634+00:00
+SX,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SXM,XCG,XCG,2025-03-31,2025-09-09T15:06:07.150640+00:00
+SY,Syrian Arab Republic,Syrian Arab Republic,SYR,SYP,Syrian Pound,1948-01-01,2025-09-09T15:06:07.150646+00:00
+SZ,Eswatini,Kingdom of Eswatini,SWZ,SZL,Lilangeni,1974-09-06,2025-09-09T15:06:07.150652+00:00
+TC,Turks and Caicos Islands,Turks and Caicos Islands,TCA,USD,US Dollar,1969-09-08,2025-09-09T15:06:07.150657+00:00
+TD,Chad,Republic of Chad,TCD,XAF,CFA Franc BEAC,1993-01-01,2025-09-09T15:06:07.150663+00:00
+TF,French Southern Territories,French Southern Territories,ATF,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150668+00:00
+TG,Togo,Togolese Republic,TGO,XOF,CFA Franc BCEAO,1958-11-28,2025-09-09T15:06:07.150673+00:00
+TH,Thailand,Kingdom of Thailand,THA,THB,Baht,1928-04-15,2025-09-09T15:06:07.150679+00:00
+TJ,Tajikistan,Republic of Tajikistan,TJK,TJS,Somoni,2000-10-26,2025-09-09T15:06:07.150684+00:00
+TK,Tokelau,Tokelau,TKL,NZD,New Zealand Dollar,1967-07-10,2025-09-09T15:06:07.150690+00:00
+TL,Timor-Leste,Democratic Republic of Timor-Leste,TLS,USD,US Dollar,1999-10-20,2025-09-09T15:06:07.150695+00:00
+TM,Turkmenistan,Turkmenistan,TKM,TMT,Turkmenistan New Manat,2009-01-01,2025-09-09T15:06:07.150701+00:00
+TN,Tunisia,Republic of Tunisia,TUN,TND,Tunisian Dinar,1958-11-01,2025-09-09T15:06:07.150706+00:00
+TO,Tonga,Kingdom of Tonga,TON,TOP,Pa’anga,1966-02-14,2025-09-09T15:06:07.150712+00:00
+TR,Türkiye,Republic of Türkiye,TUR,TRY,Turkish Lira,2005-01-01,2025-09-09T15:06:07.150718+00:00
+TT,Trinidad and Tobago,Republic of Trinidad and Tobago,TTO,TTD,Trinidad and Tobago Dollar,1964-01-01,2025-09-09T15:06:07.150723+00:00
+TV,Tuvalu,Tuvalu,TUV,AUD,Australian Dollar,1966-02-14,2025-09-09T15:06:07.150729+00:00
+TW,"Taiwan, Province of China","Taiwan, Province of China",TWN,TWD,New Taiwan Dollar,1949-06-15,2025-09-09T15:06:07.150734+00:00
+TZ,"Tanzania, United Republic of",United Republic of Tanzania,TZA,TZS,Tanzanian Shilling,1966-06-14,2025-09-09T15:06:07.150740+00:00
+UA,Ukraine,Ukraine,UKR,UAH,Hryvnia,1996-09-02,2025-09-09T15:06:07.150745+00:00
+UG,Uganda,Republic of Uganda,UGA,UGX,Uganda Shilling,1987-05-15,2025-09-09T15:06:07.150751+00:00
+UM,United States Minor Outlying Islands,United States Minor Outlying Islands,UMI,USD,US Dollar,1944-01-01,2025-09-09T15:06:07.150757+00:00
+US,United States,United States of America,USA,USD,US Dollar,1792-01-01,2025-09-09T15:06:07.150762+00:00
+UY,Uruguay,Eastern Republic of Uruguay,URY,UYU,Peso Uruguayo,1993-03-01,2025-09-09T15:06:07.150768+00:00
+UZ,Uzbekistan,Republic of Uzbekistan,UZB,UZS,Uzbekistan Sum,1994-07-01,2025-09-09T15:06:07.150773+00:00
+VA,Holy See (Vatican City State),Holy See (Vatican City State),VAT,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150778+00:00
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,XCD,East Caribbean Dollar,1965-10-06,2025-09-09T15:06:07.150784+00:00
+VE,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,VEN,VES,Bolívar Soberano,2018-08-20,2025-09-09T15:06:07.150789+00:00
+VG,"Virgin Islands, British",British Virgin Islands,VGB,USD,US Dollar,1833-01-01,2025-09-09T15:06:07.150795+00:00
+VI,"Virgin Islands, U.S.",Virgin Islands of the United States,VIR,USD,US Dollar,1837-01-01,2025-09-09T15:06:07.150800+00:00
+VN,Viet Nam,Socialist Republic of Viet Nam,VNM,VND,Dong,1985-09-14,2025-09-09T15:06:07.150805+00:00
+VU,Vanuatu,Republic of Vanuatu,VUT,VUV,Vatu,1981-01-01,2025-09-09T15:06:07.150811+00:00
+WF,Wallis and Futuna,Wallis and Futuna,WLF,XPF,CFP Franc,1961-07-30,2025-09-09T15:06:07.150816+00:00
+WS,Samoa,Independent State of Samoa,WSM,WST,Tala,1967-07-10,2025-09-09T15:06:07.150822+00:00
+YE,Yemen,Republic of Yemen,YEM,YER,Yemeni Rial,1990-05-22,2025-09-09T15:06:07.150827+00:00
+YT,Mayotte,Mayotte,MYT,EUR,Euro,1999-01-01,2025-09-09T15:06:07.150833+00:00
+ZA,South Africa,Republic of South Africa,ZAF,ZAR,Rand,1961-02-14,2025-09-09T15:06:07.150839+00:00
+ZM,Zambia,Republic of Zambia,ZMB,ZMW,Zambian Kwacha,2013-01-01,2025-09-09T15:06:07.150844+00:00
+ZW,Zimbabwe,Republic of Zimbabwe,ZWE,ZWG,ZWG,2024-06-25,2025-09-09T15:06:07.150850+00:00
