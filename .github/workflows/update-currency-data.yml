@@ -1,0 +1,169 @@
+name: Update Currency Data
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggers
+  push:
+    branches: [ main ]
+    paths: [ 'scripts/**' ] # Only run if scripts change
+
+jobs:
+  update-currency-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow workflow to write to repository
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests pandas lxml beautifulsoup4 pycountry
+        
+    - name: Run currency data update script
+      run: python scripts/update_currency_data.py
+      
+    - name: Prepare release data
+      id: verify-changed-files
+      run: |
+        # Always create release regardless of changes
+        echo "changed=true" >> $GITHUB_OUTPUT
+        
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "✅ Data changes detected - will update and release"
+        else
+          echo "ℹ️ No data changes - will still create timestamped release"
+        fi
+        
+        # Count records for release notes
+        if [ -f "data/current_currencies.csv" ]; then
+          current_count=$(tail -n +2 data/current_currencies.csv | wc -l)
+          echo "current_count=$current_count" >> $GITHUB_OUTPUT
+        fi
+        
+        if [ -f "data/historical_currencies.csv" ]; then
+          historical_count=$(tail -n +2 data/historical_currencies.csv | wc -l)
+          echo "historical_count=$historical_count" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "${{ github.actor }}"
+        git add -A
+        
+        # Check if there are actual changes to commit
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "📊 Update currency data - $(date +'%Y-%m-%d %H:%M:%S UTC')
+
+        - Synced with latest Unicode CLDR data
+        - Updated $(wc -l < data/current_currencies.csv) countries/territories
+        - Updated $(wc -l < data/historical_currencies.csv) historical records"
+        else
+          # Create empty commit for timestamp tracking
+          git commit --allow-empty -m "📊 Currency data sync - $(date +'%Y-%m-%d %H:%M:%S UTC')
+
+        - Verified against latest Unicode CLDR data
+        - No changes detected: $(wc -l < data/current_currencies.csv) countries/territories
+        - No changes detected: $(wc -l < data/historical_currencies.csv) historical records"
+        fi
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Create timestamped release
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        # Generate clean tag name (no special characters)
+        TAG_NAME="v$(date +'%Y.%m.%d')"
+        RELEASE_NAME="Currency Data Update $(date +'%Y-%m-%d')"
+        
+        # Check if tag already exists
+        if git tag -l "$TAG_NAME" | grep -q "$TAG_NAME"; then
+          # If tag exists, add time to make it unique
+          TAG_NAME="v$(date +'%Y.%m.%d-%H%M')"
+        fi
+        
+        echo "Creating release with tag: $TAG_NAME"
+        
+        # Create comprehensive release notes
+        if [ -n "$(git log --oneline -1 | grep 'No changes detected')" ]; then
+          SYNC_STATUS="🔍 **Verification Run** - No data changes detected"
+          UPDATE_DETAILS="- ✅ Verified current currency mappings from Unicode CLDR
+        - ✅ Confirmed historical currency transitions and dates  
+        - ✅ Validated country/territory names and codes
+        - ✅ Checked currency codes and names from ISO 4217"
+        else
+          SYNC_STATUS="📊 **Data Update** - Changes synchronized successfully"
+          UPDATE_DETAILS="- ✅ Updated current currency mappings from Unicode CLDR
+        - ✅ Refreshed historical currency transitions and dates
+        - ✅ Updated country/territory names and codes  
+        - ✅ Synchronized currency codes and names from ISO 4217"
+        fi
+        
+        cat > release_notes.md << EOF
+        ## 🌍 Automated Currency Data Sync
+        
+        ### 📊 **Data Summary**
+        - **Current currencies**: ${{ steps.verify-changed-files.outputs.current_count }} countries/territories
+        - **Historical records**: ${{ steps.verify-changed-files.outputs.historical_count }} currency changes (includes all active and discontinued currencies)
+        - **Last updated**: $(date +'%Y-%m-%d %H:%M UTC')
+        
+        ### 🔄 $SYNC_STATUS
+        $UPDATE_DETAILS
+        
+        ### 📥 **Quick Download**
+        \`\`\`bash
+        # Current currencies
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/current_currencies.csv
+        
+        # Historical currencies (includes all active and discontinued)
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/historical_currencies.csv
+        
+        # JSON formats
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/current_currencies.json
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/historical_currencies.json
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/iso_mappings.json
+        
+        # Metadata
+        curl -O https://github.com/${{ github.repository }}/releases/download/$TAG_NAME/metadata.json
+        \`\`\`
+        
+        ### 🔗 **Data Sources**
+        - **Unicode CLDR**: Currency-territory mappings
+        - **ISO 4217**: Currency codes and names  
+        - **ISO 3166**: Country codes and names
+        - **Generated**: $(date +'%Y-%m-%d %H:%M:%S UTC')
+        
+        ---
+        *This release was automatically generated by GitHub Actions*
+        EOF
+        
+        # Create release using GitHub CLI
+        gh release create "$TAG_NAME" \
+          --title "$RELEASE_NAME" \
+          --notes-file release_notes.md \
+          --target main \
+          data/current_currencies.csv#"Current currencies for all countries/territories" \
+          data/historical_currencies.csv#"Historical currency data with complete timeline (active and discontinued)" \
+          data/current_currencies.json#"Current currencies in JSON format" \
+          data/historical_currencies.json#"Historical currencies in JSON format" \
+          data/iso_mappings.json#"Simplified ISO country and currency mappings" \
+          data/metadata.json#"Update metadata and source information"
+          
+        echo "✅ Release $TAG_NAME created successfully!"
+        echo "🔗 https://github.com/${{ github.repository }}/releases/tag/$TAG_NAME"
+        
+        # Clean up
+        rm release_notes.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
