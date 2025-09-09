@@ -306,11 +306,12 @@ class CurrencyDataProcessor:
             'alpha2_to_alpha3': {code: data['alpha_3'] for code, data in self.iso3166_data.items() if data.get('alpha_3')}
         }
     
-    def save_metadata(self):
+    def save_metadata(self, current_df, historical_df):
         """Save metadata about the update process"""
         metadata = {
             'last_updated': datetime.now(timezone.utc).isoformat(),
-            'total_regions': len(self.currency_regions),
+            'total_regions': len(current_df),
+            'total_records': len(historical_df),
             'generator_version': GENERATOR_VERSION
         }
         
@@ -363,7 +364,7 @@ class CurrencyDataProcessor:
             json.dump(iso_mappings, f, indent=2, ensure_ascii=False)
         
         logger.info("Saving metadata...")
-        self.save_metadata()
+        self.save_metadata(current_df, historical_df)
         
         logger.info(f"Process completed successfully!")
         logger.info(f"- Current currencies: {len(current_df)} regions")
